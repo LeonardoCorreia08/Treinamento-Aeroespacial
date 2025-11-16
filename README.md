@@ -222,13 +222,13 @@ python -m http.server 8000
 * Export de relatórios de treinamento
 * Integração com LMS (Sistema de Gestão de Aprendizagem)
 
-##  Suporte e Contato
+##  Contato
 
 * **Desenvolvedor:** Leonardo Correia
 * **Data:** Novembro 2025
 * **Projeto:** Curso de Realidade Aumentada - Unidade 5
 
-Para suporte técnico ou customizações, entre em contato através do repositório do projeto.
+Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugestões ou quiser adicionar novos recursos, fique à vontade para abrir uma issue ou enviar um pull request..
 
 ---
 
