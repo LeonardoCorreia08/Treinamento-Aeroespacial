@@ -232,6 +232,6 @@ Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugest
 
 ---
 
-##  Desenvolvido para o futuro da educação aeroespacial
+##  Desenvolvido para o futuro da educação e treinamento aeroespacial
 
 **Treinamento seguro • Análise detalhada • Prática ilimitada**
