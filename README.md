@@ -1,3 +1,19 @@
+# Imersão RA
+
+Código criado para utilização junto ao curso de imersaoRA
+
+<p align="center"><img src="./imersao.JPG" width="500"></p>
+
+## Repertório para os Desafios de Projeto das Unidades
+
+
+Imersão em Realidade Aumentada — explorando experiências interativas que conectam o mundo físico ao digital.
+
+Segue o projeto:  A.P.E.X.: Análise Preditiva para Excelência Operacional
+https://imersao-apex.netlify.app/
+
+
+
 # Treinamento WebAR - Manutenção Aeroespacial
 
 ## Descrição do Projeto
