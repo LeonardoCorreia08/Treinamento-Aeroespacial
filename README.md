@@ -183,7 +183,7 @@ rotationSpeed: 0.4                 // Sensibilidade da rotação
 
 * **Modelo:** "3D Printable Radial Pneumatic Engine"
 * **Autor:** Slava Z.
-* **Fonte:** Sketchfab
+* **Fonte:** [Sketchfab](https://sketchfab.com/3d-models/3d-printable-radial-pneumatic-engine-3cbddbecd6c5462391e9936a3ccd7d32)
 * **Licença:** CC Attribution
 
 ### Desenvolvimento
